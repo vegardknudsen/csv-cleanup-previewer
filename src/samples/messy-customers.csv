@@ -1,0 +1,13 @@
+ customer_id , name ,email,city,joined
+00123, Alice Jensen ,alice@example.com, Oslo ,03/04/2026
+00124,Ben Carter,ben@example.com,Bristol,2026-05-12
+00123,Alice Jensen,alice@example.com,Oslo,03/04/2026
+,,,,
+00125, Clara Diaz ,,Madrid,2026-06-01
+00126,"Davis, Morgan",morgan@example.com, London,2026-06-02
+00127,Emil Berg,emil@example.com,Bergen,2026-06-04
+00128, Fatima Ali,fatima@example.com,Stockholm ,2026-06-08
+00124,Ben Carter,ben@example.com,Bristol,2026-05-12
+00129,Grace Chen,grace@example.com,,2026-06-10
+00130,Hugo Martin,hugo@example.com,Paris,2026-06-12
+00131,Ingrid Olsen,ingrid@example.com,Trondheim,2026-06-14
