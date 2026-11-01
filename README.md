@@ -74,6 +74,6 @@ Parsing and cleanup run on the main thread within the limits above. This is a sm
 
 Built with [Vue](https://vuejs.org/), TypeScript, [Papa Parse](https://www.papaparse.com/docs), Vite, and Vitest. GitHub Actions runs tests and the production build on pushes to `main` and pull requests. There is no automatic deployment.
 
-## AI-assisted development
+## Third-party notices
 
-This project was planned and implemented with Codex. [AI_WORKFLOW.md](AI_WORKFLOW.md) records the scope, design decisions, and validation performed. It distinguishes generated implementation from maintainer review.
+Vue and Papa Parse license notices are included in [public/THIRD_PARTY_NOTICES.txt](public/THIRD_PARTY_NOTICES.txt), which is copied into production builds. These notices cover the bundled dependencies; they do not grant a license to this application's original source code.
